@@ -1,0 +1,18 @@
+{
+    "channel_nightly": {
+        "image": "ubuntu:focal",
+        "features": {
+            "crystal": {
+                "channel": "nightly"
+            }
+        }
+    },
+    "pinned_version": {
+        "image": "ubuntu:focal",
+        "features": {
+            "crystal": {
+                "version": "1.2"
+            }
+        }
+    }
+}   
